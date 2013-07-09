@@ -1,0 +1,26 @@
+{
+  "name": "node-begin",
+  "version": "0.0.1",
+  "private": "true",
+  "description": "A simple demo for node beginner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lgrcyanny/nodedemo.git"
+  },
+  "keywords": [
+    "node",
+    "demo"
+  ],
+  "author": "Cyanny",
+  "bugs": {
+    "url": "https://github.com/lgrcyanny/nodedemo/issues"
+  },
+  "dependencies": {
+    "formidable": "~1.0.14"
+  }
+}
